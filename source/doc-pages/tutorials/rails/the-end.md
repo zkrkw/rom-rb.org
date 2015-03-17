@@ -18,7 +18,7 @@ Still not satisified we realized that our array of hashes returned from
 relations didn't cut it. We [set up a task mapper](/tutorials/rails/task-mapper)
 and a `Task` object to give us richer domain objects in our application.
 
-All of that would be greate if we needed a read-only application. [Managing
+All of that would be great if we needed a read-only application. [Managing
 tasks](/tutorials/rails/managing-tasks) was next for us and there we learned
 about ROM [commands](/introduction/commands) and ROM command/query separation.
 
